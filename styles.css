@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+header {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+header > h1 {
+    color:aquamarine;
+}
+header > input {
+    border-radius: 20px;
+    border: none;
+    outline: none;
+}
